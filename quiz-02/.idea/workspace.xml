@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7082f4e-2039-49a7-8bbe-5c5f8f7b2f3a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GuLo1VfbxzqKmNn7Pr382E8ty9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Student/Desktop/testing-quiz-2/BTU_Project-master"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.ApiTests">
+    <configuration name="ApiTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BTU_Project-master" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTests.createUserTest_ReturnsBadRequest_WhenParamsAreNotPassed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BTU_Project-master" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTests" />
+      <option name="METHOD_NAME" value="createUserTest_ReturnsBadRequest_WhenParamsAreNotPassed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTests.createUserTest_ReturnsBadRequest_WhenPasswordIsNotStrongEnough" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BTU_Project-master" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTests" />
+      <option name="METHOD_NAME" value="createUserTest_ReturnsBadRequest_WhenPasswordIsNotStrongEnough" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTests.createUserTest_ReturnsCreated_WhenArgumentsAreValid" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BTU_Project-master" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTests" />
+      <option name="METHOD_NAME" value="createUserTest_ReturnsCreated_WhenArgumentsAreValid" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTests.getResponseStatus" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BTU_Project-master" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTests" />
+      <option name="METHOD_NAME" value="getResponseStatus" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ApiTests" />
+        <item itemvalue="TestNG.ApiTests.createUserTest_ReturnsCreated_WhenArgumentsAreValid" />
+        <item itemvalue="TestNG.ApiTests.createUserTest_ReturnsBadRequest_WhenPasswordIsNotStrongEnough" />
+        <item itemvalue="TestNG.ApiTests.createUserTest_ReturnsBadRequest_WhenParamsAreNotPassed" />
+        <item itemvalue="TestNG.ApiTests.getResponseStatus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7082f4e-2039-49a7-8bbe-5c5f8f7b2f3a" name="Changes" comment="" />
+      <created>1667233693898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667233693898</updated>
+    </task>
+    <servers />
+  </component>
+</project>

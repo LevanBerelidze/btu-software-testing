@@ -1,0 +1,22 @@
+pipeline {
+  agent any
+  stages {
+    stage('Run project') {
+      parallel {
+        stage('Run project') {
+          steps {
+            bat 'mvn clean install test -DsuiteXmlFile=testngSuite.xml'
+          }
+        }
+
+        stage('Get Maven Version') {
+          steps {
+            bat 'mvn --version'
+          }
+        }
+
+      }
+    }
+
+  }
+}
